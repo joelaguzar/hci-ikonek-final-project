@@ -14,7 +14,6 @@
 ---
 
 ## <a id = "overview">📖 I. Project Overview
-## Introduction
 **iKonek** is a *web application* designed to streamline the management of **blood donations** and **fundraising initiatives** for non-profit organizations. It offers a **secure** and **efficient platform** that prioritizes **user-friendliness** and **data integrity**. Users can register, manage profiles, schedule blood donations, and participate in fundraising campaigns, while administrators gain access to *robust tools* for managing hospital data, verifying donations, generating reports, and overseeing user accounts. 
 ---
 
